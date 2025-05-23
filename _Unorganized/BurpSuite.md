@@ -23,3 +23,4 @@ Advisory: The Advisory section provides more detailed information about the iden
 | Ctrl + Shift + P | Proxy tab |
 | Ctrl + Shift + I | Intruder tab |
 | Ctrl + Shift + R | Repeater tab |
+
