@@ -5,12 +5,12 @@ I'm in the process of uploading my notes and cheatsheets. I also take notes as I
 
 
 # /The_wiki/
-├── README.md/                  
+├── README.md/
 ├── Code-Syntax/
-│   ├── Python.md              # Python quick syntax & tricks
-│   └── SQL.md                 # SQL query snippets and notes
+│   ├── Python.md
+│   └── SQL.md
 ├── Cyber-Tools/
-│   └── BurpSuite.md           # BurpSuite tips & shortcuts
+│   └── BurpSuite.md
 ├── OSINT/
-│   ├── Tools.md               # List and notes on OSINT tools
+│   ├── Tools.md              
 ├── Notes/
