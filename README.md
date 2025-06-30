@@ -4,13 +4,12 @@ This is where I keep my notes, cheatsheets, links to cheatsheets I find and any 
 I'm in the process of uploading my notes and cheatsheets. I also take notes as I go so some may seem unfinished, this is supposed to be rather dynamic.
 
 
-# /The_wiki/
-├── README.md/
+├── README.md
 ├── Code-Syntax/
-│   ├── Python.md
-│   └── SQL.md
+│ └── Python.md
+├── SQL.md
 ├── Cyber-Tools/
-│   └── BurpSuite.md
+│ └── BurpSuite.md
 ├── OSINT/
-│   ├── Tools.md              
-├── Notes/
+│ └── Tools.md
+└── Notes/
